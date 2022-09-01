@@ -1,16 +1,14 @@
-### Hi there 👋
+## Jarvis H Yang
 
-<!--
-**JARVIS843/JARVIS843** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JARVIS843)](https://github.com/anuraghazra/github-readme-stats)
 
-Here are some ideas to get you started:
+---
+## About Me:
+Hi, 你好, **:D** , I'm a student / part-time developer from Canada. I'm interested in machine learning🤖, computer graphics💥, computer hardware 💾, and Unity game design🎮. I used to work on Android App development using Android Studio📱, but currently I'm mainly working on .Net Applications, C# Unity coding, and web development (Chrome extension)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills and Experiences
+- 📖 C++
+- #️⃣ C#
+- ☕ Java
+- 🐍 Python
+- 📱 HTML, CSS, JS
