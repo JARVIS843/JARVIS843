@@ -8,7 +8,7 @@ Hi, 你好, **:D** , I'm a student / part-time developer from Canada. I'm intere
 
 ## Skills and Experiences
 - 📖 C++
-- #️⃣ C#
-- ☕ Java
-- 🐍 Python
-- 📱 HTML, CSS, JS
+- #️⃣ C# & Unity
+- ☕ Java & Android Studio
+- 🐍 Python & ML
+- 📱 HTML, CSS, JS & Web Dev
