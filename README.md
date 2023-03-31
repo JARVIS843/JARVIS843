@@ -4,7 +4,7 @@
 
 ---
 ## About Me:
-Hi, 你好, **:D** , I'm a student / part-time developer from Canada. I'm interested in machine learning🤖, computer graphics💥, computer hardware 💾, and Unity game design🎮. I used to work on Android App development using Android Studio📱, but currently I'm mainly working on .Net Applications, C# Unity coding, and web development (Chrome extension)
+Hi, 你好, **:D** , I'm a student / part-time developer from Canada. I'm interested in machine learning🤖, computer graphics💥, Robotics ⚡ ,computer hardware 💾, and Unity game design🎮. I used to work on Android App development using Android Studio📱, but currently I'm mainly working on .Net Applications, C# Unity coding, and web development (Chrome extension), and ROS robotics.
 
 ## Skills and Experiences
 - 📖 C++
@@ -12,3 +12,4 @@ Hi, 你好, **:D** , I'm a student / part-time developer from Canada. I'm intere
 - ☕ Java - Android Studio
 - 🐍 Python - ML
 - 📱 HTML, CSS, JS - Web Dev & Chrome Extensions
+- ⚡ ROS, YOLOV5, SLAM
