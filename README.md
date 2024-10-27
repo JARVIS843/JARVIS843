@@ -1,7 +1,7 @@
 ## Jarvis H Yang
 
 ## About Me:
-Hi, 你好, **:D** , I'm a student / part-time developer currently studying in US. I'm interested in machine learning🤖, computer graphics💥, robotics ⚡,computer hardware 💻, and Unity game design🎮.
+Hi, 你好, **:D** , I'm a student / part-time developer currently studying in US. I'm interested in machine learning🤖, computer graphics💥, robotics⚡, computer hardware💻, and Unity game design🎮.
 
 ## Skills and Experiences
 - 📖 C++ - MCU
